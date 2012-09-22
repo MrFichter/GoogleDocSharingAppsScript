@@ -16,7 +16,8 @@ To connect this script with the spreadsheet, click "Tools" from the spreadsheet
 menu. Then select "Script Editor" and "Blank Project." (Please make sure it's
 really blank. You may need to delete some starter code that Google creates 
 for you.) Then, paste in all of the text you'll find in the file above entitled
-GoogleDocSharingAppsScript. 
+"GoogleDocSharingAppsScript." (I recommend clicking the file name and then 
+viewing in "raw" mode.) 
 
 I'm not sure if this is necessary, but I usually select "Run" --> "onOpen" once 
 before closing evertyhing. Then, the next time you open your spreadsheet, a new 
